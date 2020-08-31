@@ -4,7 +4,7 @@ a menu module for python
 
 # Usage
 
-1.) import the menu package `impory menu`
+1.) import the menu package `import menu`
 
 2.) create/import functions for options on the menu
 
